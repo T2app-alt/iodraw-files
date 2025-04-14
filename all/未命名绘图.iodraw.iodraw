@@ -37,9 +37,6 @@
         <mxCell id="GVP4KyIVDUmkj8mkbIeR-15" value="不存在" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="GVP4KyIVDUmkj8mkbIeR-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GVP4KyIVDUmkj8mkbIeR-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-180;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="260" width="140" height="100" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

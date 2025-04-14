@@ -68,11 +68,11 @@
         </mxCell>
         <mxCell id="GVP4KyIVDUmkj8mkbIeR-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="410" as="sourcePoint" />
-            <mxPoint x="450" y="410" as="targetPoint" />
+            <mxPoint x="360" y="560" as="sourcePoint" />
+            <mxPoint x="360" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GVP4KyIVDUmkj8mkbIeR-25" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="GVP4KyIVDUmkj8mkbIeR-24">
+        <mxCell id="GVP4KyIVDUmkj8mkbIeR-25" value="正确" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="GVP4KyIVDUmkj8mkbIeR-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>

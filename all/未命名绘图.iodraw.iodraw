@@ -51,9 +51,12 @@
         </mxCell>
         <mxCell id="GVP4KyIVDUmkj8mkbIeR-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="430" as="sourcePoint" />
+            <mxPoint x="360" y="240" as="sourcePoint" />
             <mxPoint x="460" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GVP4KyIVDUmkj8mkbIeR-21" value="不存在" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="415" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

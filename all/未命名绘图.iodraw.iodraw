@@ -56,7 +56,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GVP4KyIVDUmkj8mkbIeR-21" value="不存在" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="415" as="geometry" />
+          <mxGeometry x="460" y="300" as="geometry">
+            <mxPoint x="-6" y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

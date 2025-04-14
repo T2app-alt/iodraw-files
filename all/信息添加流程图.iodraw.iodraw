@@ -52,11 +52,6 @@
             <mxPoint x="460" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GVP4KyIVDUmkj8mkbIeR-21" value="已存在" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="280" as="geometry">
-            <mxPoint x="165" y="19" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GVP4KyIVDUmkj8mkbIeR-22" value="判断信息格式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="560" width="100" height="60" as="geometry" />
         </mxCell>

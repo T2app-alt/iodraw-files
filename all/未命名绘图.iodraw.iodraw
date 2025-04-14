@@ -75,8 +75,11 @@
         <mxCell id="GVP4KyIVDUmkj8mkbIeR-25" value="正确" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="GVP4KyIVDUmkj8mkbIeR-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GVP4KyIVDUmkj8mkbIeR-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GVP4KyIVDUmkj8mkbIeR-26" target="GVP4KyIVDUmkj8mkbIeR-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GVP4KyIVDUmkj8mkbIeR-26" value="查询相关表" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="306" y="490" width="104" height="50" as="geometry" />
+          <mxGeometry x="308" y="490" width="104" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

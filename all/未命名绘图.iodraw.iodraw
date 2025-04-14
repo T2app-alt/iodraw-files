@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GVP4KyIVDUmkj8mkbIeR-21" value="已存在" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="270" as="geometry">
+          <mxGeometry x="290" y="280" as="geometry">
             <mxPoint x="165" y="19" as="offset" />
           </mxGeometry>
         </mxCell>

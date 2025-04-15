@@ -19,7 +19,7 @@
         <mxCell id="9txVMp9sVDTe6h_axEKO-5" value="竞赛申报" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9txVMp9sVDTe6h_axEKO-6" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9txVMp9sVDTe6h_axEKO-6" value="个人信息修改" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="250" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9txVMp9sVDTe6h_axEKO-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9txVMp9sVDTe6h_axEKO-1" target="9txVMp9sVDTe6h_axEKO-6">
